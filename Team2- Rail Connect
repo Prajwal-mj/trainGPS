@@ -1,9 +1,44 @@
 Team2- RailConnect
 Team Members- Prajwal M J, Hrishu Singh, Priya Kothari, Rahul Bajaj
+
 REQUIREMENTS:
 ●	Easy User Interface Web Application Software
 ●	Cloud Server 
 ●	Obstacle detection, Obstacle Snapshot  and alert
 ●	Time Deadline: 6 Months
 ●	Scalable 
+
 Rahul merge this
+
+
+SYSTEM DESIGN
+Hardware and software requirements (UI)
+Intelligent System
+Circuit design
+Monitoring devices
+Database to store train details (Firebase cloud)
+GPS satellite
+
+
+4)Low-level Design GPS Module
+Sensors
+(Accelerometer, Obstacle detection)
+Switching Machine
+
+
+5) Unit testing
+To check the corresponding output of all the devices(GPS, switching machine, signaling device) which will be used.
+
+
+6) we are done and looking forward
+
+is it edited
+
+7) System testing
+To check if the circuit is working properly or not and if it is able to give the output of which track is vacant.
+
+8) Acceptance
+To deploy the project into live environment after analysing all the trial and errors of the software.
+To check customer satisfaction
+
+
