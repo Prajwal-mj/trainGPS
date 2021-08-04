@@ -1,8 +1,17 @@
 Team2- RailConnect
 Team Members- Prajwal M J, Hrishu Singh, Priya Kothari, Rahul Bajaj
+
 REQUIREMENTS:
 ●	Easy User Interface Web Application Software
 ●	Cloud Server 
 ●	Obstacle detection, Obstacle Snapshot  and alert
 ●	Time Deadline: 6 Months
 ●	Scalable 
+
+SYSTEM DESIGN
+Hardware and software requirements (UI)
+Intelligent System
+Circuit design
+Monitoring devices
+Database to store train details (Firebase cloud)
+GPS satellite
